@@ -1,2 +1,4 @@
 # hello-world
-hello world application on github
+ hi rajasekhar,
+ 
+     This is first application on github and it prints hello world message .
